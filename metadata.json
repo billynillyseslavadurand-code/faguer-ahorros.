@@ -1,0 +1,8 @@
+{
+  "name": "Remix Control Diario de Ahorros e Intereses (S/)",
+  "description": "Control diario de cuenta de ahorros en soles con cálculo automático de TRED, intereses diarios, tabla estilo Excel, historial mensual y respaldo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
